@@ -1,0 +1,43 @@
+/Users/raphael/Downloads/project 20
+├── eslint.config.js
+├── index.html
+├── node_modules
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── src
+|  ├── App.tsx
+|  ├── components
+|  |  ├── FAQ.tsx
+|  |  ├── Features.tsx
+|  |  ├── Footer.tsx
+|  |  ├── Header.tsx
+|  |  ├── Hero.tsx
+|  |  ├── Pricing.tsx
+|  |  ├── auth
+|  |  ├── dashboard
+|  |  ├── layout
+|  |  └── support
+|  ├── config
+|  |  ├── auth.ts
+|  |  └── firebase.ts
+|  ├── contexts
+|  |  └── AuthContext.tsx
+|  ├── index.css
+|  ├── main.tsx
+|  ├── pages
+|  |  ├── Dashboard.tsx
+|  |  └── LandingPage.tsx
+|  ├── services
+|  |  └── userService.ts
+|  ├── types
+|  |  └── index.ts
+|  └── vite-env.d.ts
+├── tailwind.config.js
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+
+directory: 706 file: 1439
+

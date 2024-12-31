@@ -1,0 +1,30 @@
+@media print {
+  @page {
+    margin: 0;
+    size: A4;
+  }
+
+  body {
+    margin: 0;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+}
+
+/* Styles pour l'aperçu à l'écran */
+.resume-preview {
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 210mm;
+  min-height: 297mm;
+  padding: 20mm;
+}
+
+.print-only {
+  display: none;
+} 
